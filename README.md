@@ -5,7 +5,6 @@
 -I'm a high school student passionate about Cybersecurity & AI/ML<br/>
 -Self Studying foundational and applied math for machine learning<br/>
 -Using ML to train models and Integrate AI & Security in projects<br/>
--Learning and applying essential cybersecurity tools <br/>
 -Interested in Biosecurity and combining Biotechnology & Cybersecurity<br/>
 
 
