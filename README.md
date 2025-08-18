@@ -2,11 +2,8 @@
 
 
 ### Hi, I'm Retal!
--I'm a high school student passionate about Cybersecurity & AI/ML<br/>
--Self Studying foundational and applied math for machine learning<br/>
--Using ML to train models and Integrate AI & Security in projects<br/>
--Interested in Biosecurity and combining Biotechnology & AI<br/>
-
+I'm a high school student and an AI/ML enthusiast! Currently looking for ways to applicate AI across multiple fields specifically in Biotechnology & Cybersecurity.
+I'll be applying AI to integrate it in many projects ranging from foundational ML models to AI applications in cybersecurity and biotechnology.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/retallahmed?s=21)
